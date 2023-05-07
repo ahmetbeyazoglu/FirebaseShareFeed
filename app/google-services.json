@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586597266548",
+    "project_id": "kinstaclone",
+    "storage_bucket": "kinstaclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586597266548:android:95b0d73b7738ef4d2dcd21",
+        "android_client_info": {
+          "package_name": "com.herpestes.firebaseinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586597266548-df8ir4givqa7o4lg9o64hvd91bnhu5qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI94Prv-sunvo5GuejVVoN3bLugp4YW9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586597266548-df8ir4givqa7o4lg9o64hvd91bnhu5qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
